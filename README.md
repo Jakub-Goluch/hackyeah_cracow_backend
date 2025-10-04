@@ -185,7 +185,7 @@ curl -X POST "http://localhost:8000/certificates" \
 curl "http://localhost:8000/statistics"
 ```
 
-## 🎯 Funkcjonalności dla jury
+## 🎯 Funkcjonalności
 
 ### 1. Przeglądanie inicjatyw
 - Filtrowanie po kategorii, lokalizacji, statusie
@@ -227,7 +227,7 @@ curl "http://localhost:8000/statistics"
 - **Pydantic** - walidacja danych
 - **Uvicorn** - serwer ASGI
 
-## 📞 Demonstracja dla jury
+## 📞 Przykładowe przypadki użycia
 
 ### Scenariusz 1: Wolontariusz szuka inicjatywy
 
