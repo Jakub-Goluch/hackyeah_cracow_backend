@@ -269,7 +269,3 @@ curl "http://localhost:8000/statistics"
 - Nowa Huta
 - Dębniki
 - Prądnik Biały
-
----
-
-**Powodzenia w prezentacji projektu przed jury!** 🎉
